@@ -1,3 +1,4 @@
 jupyter
 selenium
 bs4
+Sending an email -1.smtplib 2.Modules - (a)MIMEBase (b)MIMEText (c)MIMEMultipart from email 
