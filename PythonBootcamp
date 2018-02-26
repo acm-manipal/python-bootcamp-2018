@@ -1,0 +1,81 @@
+1)Make it more interesting(Make a module or something).
+2)Contents of the module:
+
+from bootcamp import 
+send_email, 
+open_file
+send_message
+
+a = 958585
+
+send_email(a, "Hehe")
+
+1)
+Proect 1:
+Send email to yourself
+	*import statement, function
+	*print
+	*integer
+	*string
+
+Project 2:
+Substitute with a variable
+	*Variable
+
+Project 3
+Send SMS to 10 people
+	*Lists
+	*for loops
+
+Project 4
+for i in range(len(list))):
+	list[i]
+	*len
+	*range
+
+Project 5
+Send different SMS to 10 people
+	*Dictionary
+
+Home project:
+	*input
+
+
+2)
+Project 6:
+293847289347 Here there!\n
+238942983498 Sdfkrhehf!\n
+	*read_file
+	*splitlines
+	*slicing
+
+Project 7:
+Notification
+283746278346827, fguwehfuwe, yes\n
+273468237642342, skudfhsdufhsk, no\n
+	*if
+	*else
+___________________________________
+Project 8:
+Calculate GPA and send notification
+	* operators
+
+Project 9:
+Refactor
+	* function (calculate_gpa?)
+
+
+Home Project: 
+	Integrate emails
+
+#Project X: Objects
+
+3)
+Project 10:
+Weather scrape:
+	*requests
+	*regex
+	
+Project 11:
+*beautifulsoup
+*while
